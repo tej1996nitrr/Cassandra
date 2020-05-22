@@ -3,7 +3,7 @@
     "cassandraWorkbench.activeKeyspace": [
         [
             "Cluster PasswordAuthenticator",
-            "system_schema"
+            "keyclient"
         ]
     ]
 }

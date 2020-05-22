@@ -1,0 +1,1 @@
+{"body":"SELECT *\r\nFROM keyclient.employee_by_id ;\r\n","clusterName":"Cluster PasswordAuthenticator","filename":"script_1.cql","fsPath":"f:\\VSCode\\CQL\\.cassandraWorkbench\\saved\\script_1.cql","id":"oKqjLQzcf0GeTYXP","keyspace":"system_schema","modified":false,"source":"action"}

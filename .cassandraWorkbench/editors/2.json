@@ -1,0 +1,1 @@
+{"body":"\r\nSELECT * FROM keyclient.employee_by_car_make where car_make='BMW'","clusterName":"Cluster PasswordAuthenticator","filename":"script_3.cql","fsPath":"f:\\VSCode\\CQL\\.cassandraWorkbench\\saved\\script_3.cql","id":"N7mKaXpqGAP6jfgo","keyspace":"keyclient","modified":false,"source":"action"}

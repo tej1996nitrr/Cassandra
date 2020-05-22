@@ -8,5 +8,13 @@ CREATE TABLE keyclient.employee_by_id (
  position TEXT
 );
 
+CREATE TABLE keyclient.employee_by_car_make (
+ 
+ id INT PRIMARY KEY,
+ car_make TEXT,
+ car_model TEXT
+);
+
+
 DROP TABLE keyclient.client
 
