@@ -19,5 +19,5 @@ name TEXT,
 PRIMARY KEY((car_make,car_model),id)
 )
 
-INSERT INTO 
+
 
